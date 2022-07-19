@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
             }
             catch (e:ArithmeticException){
                 result.setText("Ошибка вычисления")
+                //error
             }
         }
     }
