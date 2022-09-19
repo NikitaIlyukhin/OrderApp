@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">OrderApp2</string>
+    <string name="app_name">Order</string>
     <string name="frag1_text">Login</string>
     <string name="frag2_text">Order</string>
     <string name="frag3_text">Order Info</string>
@@ -11,7 +11,4 @@
     <string name="order_sugar">Сахар</string>
     <string name="order_milk">Молоко</string>
     <string name="order_lemon">Лимон</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
 </resources>
